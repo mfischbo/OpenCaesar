@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="isometric" renderorder="right-down" width="60" height="60" tilewidth="32" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="1">
+ <tileset firstgid="1" name="test-grass-3" tilewidth="32" tileheight="16" tilecount="512" columns="16">
+  <image source="test-tileset.png" width="512" height="512"/>
+  <tile id="20" class="Cursor"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1rENgDAQBEG3YNF/rzRAhCwe3U2wsW/0ifdaa3/Q9dE7f4k3u0Zvk5k3O97seLNr9E5v4OXl5eXl5c2u7X/VduO2+/Lmx5tdo7fRPL2Bl5f3vbfRPL2Bl/ekt9E8vYGXl5eX99nbaJ7ewMvLy8v77G00T2/g5T3pbTRPb+DN8N5T5++t
+  </data>
+ </layer>
+</map>
